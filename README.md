@@ -7,4 +7,4 @@ Naive Bayes and KNN folder contains classifiers and underlying data for building
 
 Intro SQL Presentation is a lecture that I created and delivered this year to 70+ Columbia students
 
-NLP Final Paper is a final presentation for Columbia's Natural Language Processing course, titled "Personality?s Influence on Emotional Experience of Music"
+NLP Final Paper is a final presentation for Columbia's Natural Language Processing course, titled "Personality's Influence on Emotional Experience of Music"
